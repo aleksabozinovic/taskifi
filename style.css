@@ -116,6 +116,12 @@ nav a {
   border: 2px solid #001a312f;
   border-radius: 20px;
   opacity: 0.3;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.hero--profile__photos img:hover {
+  opacity: 1;
 }
 
 /* Description */
