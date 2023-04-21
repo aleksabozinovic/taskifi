@@ -281,6 +281,7 @@ nav a {
   color: #fff;
   font-size: 24px;
   font-weight: lighter;
+  cursor: pointer;
 }
 
 .hero--col2__2 {
